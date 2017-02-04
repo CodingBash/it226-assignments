@@ -1,0 +1,9 @@
+Sincerely,
+_MANAGERNAME
+_MANAGERPOSITION
+_COMPANYNAME
+
+
+I accept the offer as outlined above.
+_NAME
+_DATE
