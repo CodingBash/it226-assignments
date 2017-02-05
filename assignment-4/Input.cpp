@@ -10,5 +10,5 @@ std::map<std::string, std::string> Input::retrieveInput(std::vector<std::string>
 		std::cout << "You entered " << entry << std::endl;
 		placeholderMap.insert(std::pair<std::string, std::string>(element, entry));
 	}
-	return placeholderMap;                             
+	return placeholderMap;
 }
